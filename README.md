@@ -6,4 +6,5 @@
 <!---
 egokeri/egokeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->![github-contribution-grid-snake](https://user-images.githubusercontent.com/112097628/201518302-5a59dadd-c26c-46b2-8c0e-68d9021eaa4c.gif)
+
