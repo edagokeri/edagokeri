@@ -8,4 +8,3 @@ egokeri/egokeri is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![find-taylor](https://user-images.githubusercontent.com/112097628/201519388-dead22ca-0657-480b-91b4-0747dfcab5f2.gif)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=egokeri)](https://git.io/streak-stats)
