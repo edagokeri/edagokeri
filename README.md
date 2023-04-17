@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eda Gökeri, I am studying Computer Engineering.
 - 👀 I’m interested in Software Development. Also I am into C++ and Java programming languages.
-- 🌱 I’m currently learning Swift and C# for Visual Programming.
+- 🌱 I’m currently learning C# and Unity for Visual Programming and Game Developing.
 - 💞️ I’m looking to collaborate with a group on any project.
 
 <!---
